@@ -12,7 +12,7 @@
 
 - **1.1 系统架构图**
 
-![system_structure](https://github.com/lulumengyi/flink-recommandSystem-demo-master/resources/pic/system_structure.png)
+![system_structure](https://github.com/lulumengyi/FlinkRecommendationSystem/tree/main/resources/pic/system_structure.png)
 
 
 
