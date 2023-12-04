@@ -12,7 +12,7 @@
 
 - **1.1 系统架构图**
 
-![system_structure](/Users/lumengyi/Downloads/flink-recommandSystem-demo-master/resources/pic/system_structure.png)
+![system_structure](https://github.com/lulumengyi/flink-recommandSystem-demo-master/resources/pic/system_structure.png)
 
 
 
@@ -24,7 +24,7 @@
 
 mysql数据库中以建立了以artists，song，genre，language等10个特征分类的倒排索引。
 
-![image-20231204213027883](/Users/lumengyi/Downloads/flink-recommandSystem-demo-master/resources/pic/image-20231204213027883.png)
+![image-20231204213027883](https://github.com/lulumengyi/flink-recommandSystem-demo-master/resources/pic/image-20231204213027883.png)
 
 - ### **二. Flink模块**
 
